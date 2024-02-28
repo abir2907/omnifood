@@ -136,8 +136,7 @@ Privacy & terms
 - Featured in
 - Features
 - How it works
-- Diets
-- Meals
+- Meals (and list of diets)
 - Pricing
 - Gallery
 - Testimonials
