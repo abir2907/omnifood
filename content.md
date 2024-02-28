@@ -137,9 +137,9 @@ Privacy & terms
 - How it works
 - Diets
 - Meals
-- Call to action
 - Pricing
 - Gallery
 - Testimonials
 - Featured in
+- Call to action
 - Footer
