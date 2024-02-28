@@ -133,6 +133,7 @@ Privacy & terms
 
 - Navigation
 - Hero
+- Featured in
 - Features
 - How it works
 - Diets
@@ -140,6 +141,5 @@ Privacy & terms
 - Pricing
 - Gallery
 - Testimonials
-- Featured in
 - Call to action
 - Footer
