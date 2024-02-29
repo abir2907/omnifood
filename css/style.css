@@ -104,6 +104,14 @@ body {
 /* HEADER */
 /***********************/
 
+.header {
+  background-color: #fdf2e9;
+}
+
+.logo {
+  height: 2.4rem;
+}
+
 /************************/
 /* HERO SECTION */
 /***********************/
