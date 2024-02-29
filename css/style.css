@@ -50,7 +50,6 @@ body {
 /************************/
 /* GENERAL REUSABLE COMPONENTS */
 /***********************/
-
 .heading-primary {
   font-size: 5.2rem;
   font-weight: 700;
@@ -103,7 +102,6 @@ body {
 /************************/
 /* HEADER */
 /***********************/
-
 .header {
   display: flex;
   justify-content: space-between;
@@ -119,9 +117,17 @@ body {
 }
 
 /************************/
+/* NAVIGATION */
+/***********************/
+.main-nav-list {
+  list-style: none;
+  display: flex;
+  gap: 3.2rem;
+}
+
+/************************/
 /* HERO SECTION */
 /***********************/
-
 .section-hero {
   background-color: #fdf2e9;
   padding: 4.8rem 0 9.6rem 0;
