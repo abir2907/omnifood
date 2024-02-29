@@ -109,6 +109,8 @@ body {
   justify-content: space-between;
   align-items: center;
   background-color: #fdf2e9;
+
+  height: 9.6rem;
 }
 
 .logo {
