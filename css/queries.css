@@ -56,3 +56,12 @@ Instead, 1rem = 1em = 16px */
     padding: 9.6rem 3.2rem;
   }
 }
+
+/***********************************/
+/* BELOW 944px (Tablets) */
+/***********************************/
+@media (max-width: 59em) {
+  html {
+    font-size: 50%;
+  }
+}
