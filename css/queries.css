@@ -116,4 +116,8 @@ Instead, 1rem = 1em = 16px */
   .btn--form {
     margin-top: 1.2rem;
   }
+
+  .btn-mobile-nav {
+    display: block;
+  }
 }
