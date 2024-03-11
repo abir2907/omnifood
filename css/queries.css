@@ -207,4 +207,9 @@ Instead, 1rem = 1em = 16px */
 /* BELOW 544px (Phones) */
 /***********************************/
 @media (max-width: 34em) {
+  .grid--2-cols,
+  .grid--3-cols,
+  .grid--4-cols {
+    grid-template-columns: 1fr;
+  }
 }
