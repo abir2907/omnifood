@@ -230,4 +230,16 @@ Instead, 1rem = 1em = 16px */
   .hero-img {
     width: 80%;
   }
+
+  .logos img {
+    height: 1.2rem;
+  }
+
+  .step-img-box:nth-child(2) {
+    grid-row: 1;
+  }
+
+  .step-img-box:nth-child(5) {
+    grid-row: 1;
+  }
 }
