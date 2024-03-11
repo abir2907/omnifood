@@ -212,4 +212,12 @@ Instead, 1rem = 1em = 16px */
   .grid--4-cols {
     grid-template-columns: 1fr;
   }
+
+  .section-hero {
+    padding: 2.4rem 0 6.4rem 0;
+  }
+
+  .hero {
+    padding: 0 3.2rem;
+  }
 }
