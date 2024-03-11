@@ -242,4 +242,8 @@ Instead, 1rem = 1em = 16px */
   .step-img-box:nth-child(5) {
     grid-row: 1;
   }
+
+  .step-img-box {
+    transform: translateY(2.4rem);
+  }
 }
