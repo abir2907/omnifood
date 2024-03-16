@@ -22,6 +22,11 @@ allLinks.forEach(function (link) {
         top: 0,
         behavior: "smooth",
       });
+
+    if (href !== "#" && href.startsWith("#")) {
+      const sectionEl = document.querySelector(href);
+      sectionEl.scrollIntoView({ behavior: "smooth" });
+    }
   });
 });
 
