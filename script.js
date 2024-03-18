@@ -33,6 +33,24 @@ allLinks.forEach(function (link) {
   });
 });
 
+// Sticky naigation
+
+const sectionHeroEl = document.querySelector(".section-hero");
+
+const obs = new IntersectionObserver(
+  function (entries) {
+    const ent = entries[0];
+    if (ent.isIntersecting === false)
+      document.querySelector(".header").classList.add("sticky");
+  },
+  {
+    // In the viewport
+    root: null,
+    threshold: 0,
+  }
+);
+obs.observe(sectionHeroEl);
+
 ///////////////////////////////////////////////////////////
 // Fixing flexbox gap property missing in some Safari versions
 function checkFlexGap() {
